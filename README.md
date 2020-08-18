@@ -41,13 +41,9 @@
 ---
 
 <div id="status">
-    <h1>👩🏻‍💻 Status</h1>
+    <h1>💻 Status</h1>
     <lu>
         <a href=""><li>Day 1: </li></a>
-        <a href=""><li> </li></a>
-        <a href=""><li> </li></a>
-        <a href=""><li> </li></a>
-        <a href=""><li> </li></a>
     </lu>
 </div>
 
