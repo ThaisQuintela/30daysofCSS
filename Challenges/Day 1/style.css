@@ -1,0 +1,116 @@
+body {
+    background-color: #100E17;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    color: transparent;
+    letter-spacing: 0.2rem;
+    position: absolute;
+    font-family: monospace;
+    margin: 0 auto;
+}
+
+.first::before {
+    content: attr(data-text-1);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    color: azure;
+    overflow: hidden;
+    
+    animation-fill-mode: forwards;
+    visibility: hidden;
+
+    border-right: 3px solid greenyellow;
+    white-space: nowrap;
+
+    letter-spacing: 0.2rem;
+    animation: 
+      type 6s steps(20),
+      blink .5s step-end infinite;
+}
+
+.second::before {
+    content: attr(data-text-2);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    color: azure;
+    overflow: hidden;
+    
+    animation-fill-mode: forwards;
+    visibility: hidden;
+
+    border-right: 3px solid greenyellow;
+    white-space: nowrap;
+
+    letter-spacing: 0.2rem;
+    animation: 
+      type 6s steps(20),
+      blink .5s step-end infinite;
+    animation-delay: 6.5s;
+}
+
+.third::before {
+    content: attr(data-text-3);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    color: azure;
+    overflow: hidden;
+    
+    animation-fill-mode: forwards;
+    visibility: hidden;
+
+    border-right: 3px solid greenyellow;
+    white-space: nowrap;
+
+    letter-spacing: 0.2rem;
+    animation: 
+      type 6s steps(20),
+      blink .5s step-end infinite;
+    animation-delay: 13s;
+}
+
+@keyframes type {
+    0% {
+        width: 0;
+        opacity: 0;
+    }
+
+    1% {
+        width: 0;
+        opacity: 1;
+        visibility: visible;
+    }
+
+    50% {
+        width: 100%;
+        opacity: 1;
+        visibility: visible;
+    }
+
+    99% {
+        width: 1%;
+        opacity: 1;
+        visibility: visible;
+    }
+
+    100% {
+        width: 0;
+        opacity: 0;
+    }
+}
+
+@keyframes blink {
+    from, to { border-color: transparent }
+    50% { border-color: greenyellow }
+}
