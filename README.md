@@ -41,7 +41,7 @@
 ---
 
 <div id="status">
-    <h1>👩🏻‍💻 Status</h1>
+    <h1>💻 Status</h1>
     <lu>
         <a href="#day1"><li>Day 1: Typewriter Animation</li></a>
         <a href="#day2"><li>Day 2: Liquid Button</li></a>
@@ -67,7 +67,7 @@
         <h1>Day 1: Typewriter Animation</h1>
     
 ![Typewriter](https://user-images.githubusercontent.com/69700012/90462000-3680e580-e0de-11ea-8d3a-06a0dadde5e2.gif)
-    </div>
+    </div><br>
     <div id="day2" align="center">
         <h1>Day 2: Liquid Button</h1>
 
