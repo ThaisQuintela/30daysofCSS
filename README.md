@@ -28,7 +28,7 @@
 
 ---
 
-<div>
+<div id="rules">
     <h1>📜 Rules</h1>
         <lu>
             <li>Do a mini project a day</li>
@@ -43,11 +43,8 @@
 <div id="status">
     <h1>👩🏻‍💻 Status</h1>
     <lu>
-        <a href=""><li>Day 1: </li></a>
-        <a href=""><li> </li></a>
-        <a href=""><li> </li></a>
-        <a href=""><li> </li></a>
-        <a href=""><li> </li></a>
+        <a href="#day1"><li>Day 1: Typewriter Animation</li></a>
+        <a href="#day2"><li>Day 2: Liquid Button</li></a>
     </lu>
 </div>
 
@@ -67,9 +64,14 @@
 <div id="projects">
     <h1>🤔 Preview</h1>
     <div id="day1" align="center">
-    <h1>Day 1: Typewriter Animation</h1>
+        <h1>Day 1: Typewriter Animation</h1>
     
 ![Typewriter](https://user-images.githubusercontent.com/69700012/90462000-3680e580-e0de-11ea-8d3a-06a0dadde5e2.gif)
+    </div>
+    <div id="day2" align="center">
+        <h1>Day 2: Liquid Button</h1>
+
+![Liquid Button](https://user-images.githubusercontent.com/69700012/90673208-c5e8de80-e22d-11ea-816a-4bf7374875a2.gif)
     </div>
 </div>
 

@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: #0C0C0C;
+}
+
+a {
+    position: relative;
+    padding: 1.25rem 3.1rem;
+    display: block;
+    text-decoration: none;
+    width: 12.5rem;
+    overflow: hidden;
+}
+
+a span {
+    position: relative;
+    z-index: 1;
+    color: #FFF;
+    font-size: 1.25rem;
+    letter-spacing: 0.5rem;
+}
+
+a .liquid {
+    position: absolute;
+    left: 0;
+    top: -5rem;
+    width: 12.5rem;
+    height: 12.5rem;
+    background: #4973FF;
+    box-shadow: inset 0 0 50px rgba(0, 0, 0, 0.5);
+    transition: 0.5s;
+}
+
+a:hover .liquid{
+    top: -7.5rem;
+}
+
+a .liquid::before,
+a .liquid::after {
+    content: "";
+    position: absolute;
+    width: 200%;
+    height: 200%;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -75%);
+}
+
+a .liquid::before {
+    border-radius: 45%;
+    background: rgba(20, 20, 20, 1);
+    animation: animate 5s linear infinite;
+}
+
+a .liquid::after {
+    border-radius: 40%;
+    background: rgba(20, 20, 20, 0.5);
+    animation: animate 10s linear infinite;
+}
+
+@keyframes animate {
+    0% {
+        transform: translate(-50%, -75%) rotate(0deg);
+    }
+
+    100% {
+        transform: translate(-50%, -75%) rotate(360deg);
+    }
+}
