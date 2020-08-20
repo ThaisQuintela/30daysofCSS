@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    animation: color 6s linear infinite;
+}
+
+.container {
+    display: flex;   
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    letter-spacing: 0.2rem;
+}
+
+span {
+    font-size: 2rem;
+    margin-left: 1rem;
+    line-height: 1.5rem;
+    width: 3rem;
+}
+
+span:before {
+    content: "";
+    animation: icon 6s linear infinite;
+}
+
+@keyframes icon {
+    0% {
+        content: "🍕";
+    }
+
+    16.7% {
+        content: "🎮";
+    }
+
+    33.3% {
+        content: "📚";
+    }
+
+    50% {
+        content: "🐕";
+    }
+
+    66.7% {
+        content: "💻";
+    }
+
+    83.3% {
+        content: "🔬";
+    }
+
+    100% {
+        content: "🍕";
+    }
+}
+
+@keyframes color {
+    0% {
+        background-color: #CC99C9;
+    }
+
+    16.7% {
+        background-color: #FF6663;
+    }
+
+    33.3% {
+        background-color: #FEB144;
+    }
+
+    50% {
+        background-color: #FDFD97;
+    }
+
+    66.7% {
+        background-color: #9EE09E;
+    }
+
+    83.3% {
+        background-color: #9EC1CF;
+    }
+    
+    100% {
+        background-color: #CC99C9;
+    }
+}

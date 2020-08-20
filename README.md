@@ -9,7 +9,7 @@
     <a><img src="https://img.shields.io/github/last-commit/ThaisQuintela/30daysofCSS?style=plastic" alt="Last commit" /></a><br><br>
 </div>
 
-<p align="center">Challenge proposed by <a href="https://github.com/MilenaCarecho/30diasDeCSS">@MilenaCarecho</a><br><br>The goal is to make a mini project a day, using HTML5 and CSS3, during 30 days, to improve your skills with those technologies. It is a fun challenge for begginers and is also good to make coding a habit.<br> I will start today, 18/08/20, but I won't do the same projects as Milena, I will choose my own. </p>
+<p align="center">Challenge proposed by <a href="https://github.com/MilenaCarecho/30diasDeCSS">@MilenaCarecho</a><br><br>The goal is to make a mini project a day, using HTML5 and CSS3, during 30 days, to improve your skills with those technologies. It is a fun challenge for begginers and is also a good way to make coding a habit.<br> I will start today, 18/08/20, but I won't do the same projects as Milena, I will choose my own from tutorials on Youtube and other websites and try to learn as much as I can.</p>
 
 <p align="center">
     <a href="README.md"><img src="/.github/england flag.png" alt="English" height="50" /></a>
@@ -45,6 +45,7 @@
     <lu>
         <a href="#day1"><li>Day 1: Typewriter Animation</li></a>
         <a href="#day2"><li>Day 2: Liquid Button</li></a>
+        <a href="#day3"><li>Day 3: I love...</li></a>
     </lu>
 </div>
 
@@ -72,6 +73,11 @@
         <h1>Day 2: Liquid Button</h1>
 
 ![Liquid Button](https://user-images.githubusercontent.com/69700012/90673208-c5e8de80-e22d-11ea-816a-4bf7374875a2.gif)
+    </div><br>
+    <div id="day3" align="center">
+        <h1>Day 3: I love...</h1>
+
+![I love](https://user-images.githubusercontent.com/69700012/90828544-9660d180-e314-11ea-959f-61b9bf650509.gif)
     </div>
 </div>
 
