@@ -46,6 +46,7 @@
         <a href="#day1"><li>Day 1: Typewriter Animation</li></a>
         <a href="#day2"><li>Day 2: Liquid Button</li></a>
         <a href="#day3"><li>Day 3: I love...</li></a>
+        <a href="#day4"><li>Day 4: Neon Text</li></a>
     </lu>
 </div>
 
@@ -78,6 +79,11 @@
         <h1>Day 3: I love...</h1>
 
 ![I love](https://user-images.githubusercontent.com/69700012/90828544-9660d180-e314-11ea-959f-61b9bf650509.gif)
+    </div><br>
+    <div id="day4" align="center">
+        <h1>Day 4: Neon Text</h1>
+
+![Neon Text](https://user-images.githubusercontent.com/69700012/90946442-24b38100-e403-11ea-84e5-01c8dbda39fb.gif)
     </div>
 </div>
 
