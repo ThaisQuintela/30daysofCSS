@@ -47,6 +47,7 @@
         <a href="#day2"><li>Dia 2: Botão Líquido</li></a>
         <a href="#day3"><li>Dia 3: Eu amo...</li></a>
         <a href="#day4"><li>Dia 4: Texto Neon</li></a>
+        <a href="#day5"><li>Dia 5: Botões com brilho</li></a>
     </lu>
 </div>
 
@@ -84,6 +85,11 @@
         <h1>Day 4: Neon Text</h1>
 
 ![Neon Text](https://user-images.githubusercontent.com/69700012/90946442-24b38100-e403-11ea-84e5-01c8dbda39fb.gif)
+    </div><br>
+    <div id="day5" align="center">
+        <h1>Day 5: Botões com brilho</h1>
+
+![Radio Buttons](https://user-images.githubusercontent.com/69700012/90968933-bfc25e80-e4c8-11ea-8fab-dbd6c0bd2255.gif)
     </div>
 </div>
 
