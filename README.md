@@ -48,6 +48,7 @@
         <a href="#day3"><li>Day 3: I love...</li></a>
         <a href="#day4"><li>Day 4: Neon Text</li></a>
         <a href="#day5"><li>Day 5: Radio Buttons</li></a>
+        <a href="#day6"><li>Day 6: Gradient Loader</li></a>
     </lu>
 </div>
 
@@ -90,6 +91,11 @@
         <h1>Day 5: Radio Buttons</h1>
 
 ![Radio Buttons](https://user-images.githubusercontent.com/69700012/90968933-bfc25e80-e4c8-11ea-8fab-dbd6c0bd2255.gif)
+    </div><br>
+    <div id="day6" align="center">
+        <h1>Day 6: Gradient Loader</h1>
+
+![Gradient Loader](https://user-images.githubusercontent.com/69700012/90997107-03839980-e597-11ea-9366-6991d67b061d.gif)
     </div>
 </div>
 
