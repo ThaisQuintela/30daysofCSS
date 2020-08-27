@@ -49,6 +49,7 @@
         <a href="#day4"><li>Dia 4: Texto Neon</li></a>
         <a href="#day5"><li>Dia 5: Botões com brilho</li></a>
         <a href="#day6"><li>Dia 6: Loader</li></a>
+        <a href="#day7"><li>Dia 7: Texto Deslizante</li></a>
     </lu>
 </div>
 
@@ -96,6 +97,11 @@
         <h1>Dia 6: Loader</h1>
 
 ![Gradient Loader](https://user-images.githubusercontent.com/69700012/90997107-03839980-e597-11ea-9366-6991d67b061d.gif)
+    </div><br>
+    <div id="day7" align="center">
+        <h1>Dia 7: Texto Deslizante</h1>
+
+![Sliding Text](https://user-images.githubusercontent.com/69700012/91375414-02e63f80-e7f1-11ea-9735-ce962b9b3767.gif)
     </div>
 </div>
 

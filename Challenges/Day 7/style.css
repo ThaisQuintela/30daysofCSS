@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    background: white;
+    box-sizing: border-box;
+    overflow: hidden;
+    position: absolute;
+}
+
+.wrapper {
+    height: 100%;
+    width: 50%;
+    background: black;
+    overflow: hidden;
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.sliding {
+    position: absolute;
+    top: 50%;
+    white-space: nowrap;
+    font-size: 12rem;
+    line-height: 220px;
+    overflow: hidden;
+    font-family: Roboto;
+    animation: slide 15s linear infinite;
+}
+
+@keyframes slide {
+    0% {
+        transform: translate(0, -50%);
+    }
+
+    100% {
+        transform: translate(-50%, -50%);
+    }
+}
