@@ -50,6 +50,7 @@
         <a href="#day5"><li>Dia 5: Botões com brilho</li></a>
         <a href="#day6"><li>Dia 6: Loader</li></a>
         <a href="#day7"><li>Dia 7: Texto Deslizante</li></a>
+        <a href="#day8"><li>Day 8: Ícones em Camadas</li></a>
     </lu>
 </div>
 
@@ -102,6 +103,11 @@
         <h1>Dia 7: Texto Deslizante</h1>
 
 ![Sliding Text](https://user-images.githubusercontent.com/69700012/91375414-02e63f80-e7f1-11ea-9735-ce962b9b3767.gif)
+    </div><br>
+    <div id="day8" align="center">
+        <h1>Day 8: Ícones em Camadas</h1>
+
+![Icons](https://user-images.githubusercontent.com/69700012/91625583-e5df7700-e97e-11ea-8d7c-856cab1bd01b.gif)
     </div>
 </div>
 

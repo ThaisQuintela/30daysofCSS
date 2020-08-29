@@ -50,6 +50,7 @@
         <a href="#day5"><li>Day 5: Radio Buttons</li></a>
         <a href="#day6"><li>Day 6: Gradient Loader</li></a>
         <a href="#day7"><li>Day 7: Sliding Text</li></a>
+        <a href="#day8"><li>Day 8: Layered Icons</li></a>
     </lu>
 </div>
 
@@ -102,6 +103,11 @@
         <h1>Day 7: Sliding Text</h1>
 
 ![Sliding Text](https://user-images.githubusercontent.com/69700012/91375414-02e63f80-e7f1-11ea-9735-ce962b9b3767.gif)
+    </div><br>
+    <div id="day8" align="center">
+        <h1>Day 8: Layered Icons</h1>
+
+![Icons](https://user-images.githubusercontent.com/69700012/91625583-e5df7700-e97e-11ea-8d7c-856cab1bd01b.gif)
     </div>
 </div>
 
