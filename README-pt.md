@@ -10,6 +10,7 @@
 </div>
 
 <p align="center">Desafio proposto por <a href="https://github.com/MilenaCarecho/30diasDeCSS">@MilenaCarecho</a><br><br>O objetivo é fazer um mini projeto por dia, usando HTML5 e CSS3, durante 30 dias, para melhorar seu domínio ou ajudar a dominar essas tecnologias. É um desafio divertido para iniciantes e também é ótimo para fazer da programação um hábito.<br> Eu estou começando hoje, 18/08/20, mas não farei os mesmos projetos que a Milena, escolherei outros de tutoriais no Youtube e de outros sites e tentarei aprender o máximo possível durante esse mês.</p>
+<p>Os tutoriais e referências podem ser encontrados em <a href="https://codepen.io/">CodePen</a>, <a href="https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog">Online Tutorials</a>, <a href="https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A">Creative Creations</a> e <a href="https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw">DarkCode</a></p>
 
 <p align="center">
     <a href="README.md"><img src="/.github/england flag.png" alt="English" height="50" /></a>
