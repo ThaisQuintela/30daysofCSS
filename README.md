@@ -10,8 +10,9 @@
 </div>
 
 <p align="center">Challenge proposed by <a href="https://github.com/MilenaCarecho/30diasDeCSS">@MilenaCarecho</a><br><br>The goal is to make a mini project a day, using HTML5 and CSS3, during 30 days, to improve your skills with those technologies. It is a fun challenge for begginers and is also a good way to make coding a habit.<br> I will start today, 18/08/20, but I won't do the same projects as Milena, I will choose my own from tutorials on Youtube and other websites and try to learn as much as I can.</p>
+<p align="center" color="red">Unfortunately, due to personal reasons, I couldn't continue this challenge.</p>
 
-<p>The tutorials or references can be found at <a href="https://codepen.io/">CodePen</a>, <a href="https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog">Online Tutorials</a>, <a href="https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A">Creative Creations</a> and <a href="https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw">DarkCode</a></p>
+<p align="center">The tutorials or references can be found at <a href="https://codepen.io/">CodePen</a>, <a href="https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog">Online Tutorials</a>, <a href="https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A">Creative Creations</a> and <a href="https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw">DarkCode</a></p>
 
 <p align="center">
     <a href="README.md"><img src="/.github/england flag.png" alt="English" height="50" /></a>
